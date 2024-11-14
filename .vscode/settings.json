@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "/home/teus/.local/share/ov/pkg/isaac-sim-4.1.0/python.sh",
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages",
+        "/home/teus/.local/share/ov/pkg/isaac-sim-4.1.0/exts"
+    ]
+}
