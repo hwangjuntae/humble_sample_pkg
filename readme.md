@@ -2,7 +2,7 @@
 
 change sample pkg name 
 
-src/\<your pkg name\>/\<your pkg name\>/__init__.py
+src/\<your pkg name\>/\<your pkg name\>/\_\_init\_\_.py
 
 inlcude/\<your pkg name\>
 
